@@ -1,0 +1,18 @@
+task: seg
+
+train:
+    name: attunet-seg2
+    save_dir: results
+    epochs: 1200
+    val_freq: 3
+    
+model:
+    n_input_channels: 3
+    n_output_channels: 1
+    pretrain_ckpt: ./results/attunet-mae/version_0/checkpoints/best-epoch=00065.ckpt
+    
+data: 
+    base_dir: ../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/
+    n_frames: 500
+    train_split: 0.852
+    bs: 64

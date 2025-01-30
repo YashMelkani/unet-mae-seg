@@ -1,0 +1,17 @@
+task: mae
+
+train:
+    name: attunet-mae-BT
+    save_dir: results
+    epochs: 300
+    val_freq: 3
+    
+model:
+    n_input_channels: 3
+    n_output_channels: 1
+    
+data: 
+    base_dir: ../../../../../../../data/project/Drosophila_MelkaniLab/
+    n_frames: 500
+    train_split: 0.75
+    bs: 64

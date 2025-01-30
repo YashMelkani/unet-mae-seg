@@ -1,0 +1,57 @@
+TRAINING (n = 46)
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wm_05_c11440_30s-control5.avi-2021_12_26_05_15_26-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_kd_03_3wf
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wm_04_c11440_30s14.avi-2021_12_23_18_32_51-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp5_5wf_02_c11440_30s80.avi-2021_12_24_22_07_17-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wf_02_c11440_30s2.avi-2021_12_23_18_34_25-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_5wf_02_diff
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_1wf_11
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wm_02_c11440_30s12.avi-2021_12_23_18_31_57-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_04_3wf
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_kd_07_3wf_c11440_30s.avi-2021_07_26_18_54_05-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wf_04_c11440_30s4.avi-2021_12_23_18_35_12-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_2000f_control_07_3wf_c11440_30s.avi-2021_07_23_19_39_35-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_08_3wf
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp5_5wf_01_c11440_30s79.avi-2021_12_24_20_37_08-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_02_c11440_30s-control1.avi-2021_12_23_18_04_39-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_kd_05_3wf
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_w1118_1wm_17_c11440_30s-control16.avi-2021_12_26_09_20_47-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp5_5wf_03_c11440_30s81.avi-2021_12_23_20_31_28-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp5_5wm_03_c11440_30s91.avi-2021_12_23_22_23_09-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp5_5wm_02_c11440_30s90.avi-2021_12_24_22_26_33-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wm_05_c11440_30s15.avi-2021_12_23_18_33_19-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_5wm
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_06_3wf
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_control_08_3wf_c11440_30s-2021_07_23_21_53_24-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_control_01_4wf_c11440_30s_200fps7-2021_07_22_21_06_38-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_5wf_04
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_02_c11440_30s-control9.avi-2021_12_23_18_58_15-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wm_02_c11440_30s-control2.avi-2021_12_24_19_00_34-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wm_03_c11440_30s-control3.avi-2021_12_26_04_59_14-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_kd_06_3wf_c11440_30s.avi-2021_07_26_21_27_55-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_06_c11440_30s-control13.avi-2021_12_23_22_00_51-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wf_05_c11440_30s5.avi-2021_12_24_19_44_51-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp5_5wm_01_c11440_30s89.avi-2021_12_23_21_49_59-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_5wf_03_diff_
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wf_03_c11440_30s3.avi-2021_12_23_18_33_49-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_kd_02_4wf_c11440_30s_200fps6-2021_07_23_19_32_59-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_5wf_02
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wm_03_c11440_30s13.avi-2021_12_23_18_31_24-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_01_c11440_30s-control0.avi-2021_12_23_17_09_21-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_5wf_03
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_w1118_1wm_01_c11440_30s-control14.avi-2021_12_26_08_56_12-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_kd_04_3wf
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wm_01_c11440_30s11.avi-2021_12_23_05_11_32-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_05_c11440_30s-control4.avi-2021_12_23_19_59_07-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wm_05_c11440_30s-control6.avi-2021_12_26_07_10_10-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_01_c11440_30s-control8.avi-2021_12_23_17_49_40-camvid 1.0
+
+VALIDATION (n = 8)
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_07_c11440_30s-control6.avi-2021_12_24_06_58_43-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wm_06_c11440_30s-control7.avi-2021_12_26_08_41_16-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_documentswtldalfp1_5wf_01_c11440_30s2.avi-2021_12_24_10_04_07-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_control_02_4wf_c11440_fullwidth-2021_07_23_19_33_53-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_500_control_05_3wm
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wm_01_c11440_30s-control1.avi-2021_12_24_18_34_07-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_fix_kd_01_4wf_c11440_30s.avi-2021_07_23_19_41_30-camvid 1.0
+../../../../../../project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/training/task_cs_1wf_06_c11440_30s-control5.avi-2021_12_23_22_19_40-camvid 1.0
