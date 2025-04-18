@@ -1,0 +1,22 @@
+Name,ROI,Threshold,Success,Notes
+CS_1wf_01_C11440_30s,"(125, 310)",100,True,
+CS_1wf_02_C11440_30s,"(200, 434)",115,True,"Needs post proc, hump in middle"
+CS_1wf_03_C11440_30s,"(150, 301)",200,True,hump in middle
+CS_1wf_04_C11440_30s,"(125, 297)",165,False,sometimes preds too large and othertimes too small
+CS_1wf_05_C11440_30s,"(210, 360)",140,True,"missing hump in bottom left, hump in top right"
+CS_1wf_06_C11440_30s,"(125, 302)",120,True,hump in top middle
+CS_1wf_07_C11440_30s,"(260, 433)",190,True,"hump in bottom middle, need to take either half of video, otherwise good"
+CS_1wf_08_C11440_30s,"(158, 375)",175,True,good
+CS_1wf_09_C11440_30s,"(205, 360)",150,False,hump in bottom during systol
+CS_1wf_10_C11440_30s,"(180, 375)",50,False,good in roi
+CS_1wf_11_C11440_30s,"(125, 293)",40,False,"top wall is hard to define, otherwise good, check"
+CS_1wf_12_C11440_30s,"(190, 397)",95,True,
+CS_1wf_13_C11440_30s,"(203, 356)",155,True,"hump on top at left, otherwise good"
+CS_1wf_14_C11440_30s,"(215, 370)",50,True,
+CS_1wf_15_C11440_30s,"(125, 310)",90,True,"hump on bottom right during systol, otherwise good"
+CS_1wf_16_C11440_30s,"(150, 300)",215,True,hard example that passed
+CS_1wf_17_C11440_30s,"(165, 355)",80,True,
+CS_1wf_18_C11440_30s,"(125, 375)",65,True,"good preds, could use full video width, slight hump in middle"
+CS_1wf_19_C11440_30s,"(125, 365)",60,True,"needs post proc, good pred"
+CS_1wf_20_C11440_30s,"(125, 375)",45,False,"awful preds, hard video"
+CS_1wf_21_C11440_30s,"(154, 375)",125,False,"awful preds, hard video"

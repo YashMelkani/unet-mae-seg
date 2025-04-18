@@ -1,7 +1,7 @@
 task: mae
 
 train:
-    name: attunet-mae
+    name: attunet-mae-0.75
     save_dir: results
     epochs: 300
     val_freq: 3
@@ -13,5 +13,6 @@ model:
 data: 
     base_dir: ../../../../../../../data/project/Drosophila_MelkaniLab/
     n_frames: 500
+    p_mask: 0.75
     train_split: 0.75
     bs: 64

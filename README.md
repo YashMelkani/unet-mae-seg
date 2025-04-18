@@ -5,9 +5,10 @@ Trained an Attention UNet to segment Drosophila hearts in cardiac recordings fro
 
 ## Future Work
 
-I am currently working on replicating this work with Vision Transformers. I also need to do the following
+I am currently working on replicating this work with Vision Transformers following *Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles* (Ryali et al., 2023) I also need to do the following
 
-- Integrate argparser for train.py
-- Ablation study at some point 
-- Create some cool animations...
+- scale lr with n_gpus (lr should be param in config)
+- integrate new data balancing approach in MAEHeartDataset
+- train with elastic deform augmentation for longer
+- create animations...
 

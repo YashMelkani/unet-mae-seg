@@ -9,11 +9,12 @@ from torchvision import tv_tensors
 from torchvision.transforms import v2
 
 class MAEHeartDataset(Dataset):
-    def __init__(self, vid_path, n_frames=500, balance=False, augment=False, seed=None):
+    def __init__(self, vid_path, n_frames=500, p_mask=0.25, balance=False, augment=False, seed=None):
         
         self.vid_path = vid_path
         
         self.n_frames = n_frames
+        self.p_mask = p_mask
         self.balance = balance
         self.n_bins = 25 # hardcoded
         self.augmentations = augment
@@ -73,7 +74,6 @@ class MAEHeartDataset(Dataset):
         
         self.img_shape = (3, 256, 512) #(C, H, W)
         self.patch_shape = (32, 32)
-        self.p_mask = 0.25
         
     def find_frame_triples(self):
         
@@ -288,7 +288,8 @@ class SEGHeartDataset(Dataset):
         self.frame_triples = self.find_frame_triples()
         
         # augmentations
-        self.transforms = v2.Compose([v2.ColorJitter(brightness = 0.3, contrast = 0.3),
+        self.transforms = v2.Compose([v2.ElasticTransform(alpha=1000.0, sigma=20.0),
+                                      v2.ColorJitter(brightness = 0.3, contrast = 0.3),
                                       v2.RandomAffine(degrees=(-20, 20), translate=(0.1, 0.1), scale=(0.8, 1.2), shear=(-0.1, 0.1, -0.1, 0.1)),
                                       v2.RandomPerspective(distortion_scale=0.3, p=0.5),
                                       v2.RandomHorizontalFlip(p=0.5),
@@ -414,7 +415,7 @@ class SEGHeartDataset(Dataset):
         d = 4
         prev_d_fn = max(0, fn - d)
         next_d_fn = min(self.n_frames-1, fn + d)
-        # prev_fn, _, next_fn = self.frame_triples[fn]
+        # prev_d_fn, _, next_d_fn = self.frame_triples[fn]
         
         img = self.get_frame(prev_d_fn)
         img[:, :, 1] = self.get_frame(fn)[:, :, 0]

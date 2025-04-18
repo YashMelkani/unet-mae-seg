@@ -1,0 +1,843 @@
+TRAINING (n = 630)
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_05_C11440_30s-Control18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT-TRF_5wf_01_C11440_30s (31).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_02_C11440_30s-Control21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_06_1wf_C11440_30s_GM Testing157.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_17_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wm_03_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_11_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_24_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_20_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_07_C11440_30s-Control6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_03_C11440_30s-Control22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_26_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_01_C11440_30s small Incu51.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_21_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_06_C11440_30s-Control24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_08_C11440_30s23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_22_C11440_30s22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_09_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wf_03_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_01_C11440_30s-Control25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_03_C11440_30s small Incu61.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wf_05_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_17_C11440_30s17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_06_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_01_C11440_30s25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_13_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_6_C11440_30s6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (8).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_03_C11440_30s small Incu53.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_16_C11440_30s31.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_2_C11440_30s23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_08_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_32_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_01_C11440_30s-Control1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_25_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wm_02_C11440_30s17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_17_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_4_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_11_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_06_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_27_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT-TRF_5wf_01_C11440_30s (30).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_17_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_4_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (14).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_5_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/WTLDALFP1_5wm_01_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Hand+_04_3WM_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wm_05_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_05_C11440_30s Large Incu45.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_14_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (26).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_02_C11440_30s-Control9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_18_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_16_C11440_30s-Control40.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/w1118_1wm_17_C11440_30s-Control16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_30_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wm_03_C11440_30s96.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_07_C11440_30s-Control6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/example/Control_5wm_03_C11440_30s Large Incu43.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_30_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_02_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_17_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_24_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_13_C11440_30s28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_09_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_22_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wm_03_C11440_30s91.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_20_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_25_C11440_30s-Control52.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_07_C11440_30s Lab6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_01_C11440_30s-Control14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_11_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_14_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (23).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_01_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_21_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_19_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_4_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_07_C11440_30s8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/REMOVE CS_03_1wm_C11440_30s_GM Testing142.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_03_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP1_5wm_02_C11440_30s17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_20_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_15_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_06_5wf_C11440_30s_GM Testing163.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP5_5wm_01_C11440_30s89.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/old_samples/Control_03_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wf_01_C11440_30s79.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_31_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (29).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_13_C11440_30s Lab13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_26_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_23_C11440_30s-Control50.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_12_C11440_30s-Control11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_07_1wm_C11440_30s_GM Testing167.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wm_04_C11440_30s92.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/example/Control_1wm_06_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_36_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_31_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wf_03_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_10_C11440_30s10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_24_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_7_C11440_30s28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP5_5wf_03_C11440_30s81.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_21_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wm_01_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP5_5wf_01_C11440_30s79.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_11_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_6_C11440_30s34.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wf_03_C11440_30s81.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_05_C11440_30s-Control4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_11_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_02_C11440_30s-Control9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (5).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wf_02_C11440_30s80.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_05_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_20_C11440_30s-Control44.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_27_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_22_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_1_C11440_30s22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_26_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS/Control_5wf_04_C11440_30s small Incu54.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_07_1wm_C11440_30s_GM Testing151.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wm_03_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_35_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_18_C11440_30s33.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_30_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_01_C11440_30s-Control8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_20_C11440_30s-Control47.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_6_C11440_30s27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_06_C11440_30s-Control7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_13_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_06_1wm_C11440_30s_GM Testing150.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_07_C11440_30s_damaged31.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_06_C11440_30s small Incu56.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_27_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_03_C11440_30s Large Incu33.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wf_02_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (28).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wm_04_C11440_30s97.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDALFP5_5wm_04_C11440_30s92.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_25_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_25_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_38_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_05_C11440_30s-Control5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_5_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_13_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_08_C11440_30s Large Incu48.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (5).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_39_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_30_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (29).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (25).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_08_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wf_01_C11440_30s6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_01_C11440_30s Lab21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wm_02_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (16).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_16_C11440_30s Lab16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/KD_06_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_04_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_16_C11440_30s-Control15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_08_C11440_30s9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_3_C11440_30s10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (16).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (10).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wm_03_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS/Control_1wm_06_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_30_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/old_samples/Control_02_4wf_C11440_30s_200FPS13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_15_C11440_30s-Control39.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_13_C11440_30s-Control12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_4_C11440_30s25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL38986_2wm_30_C11440_30s29.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_11_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_17_C11440_30s-Control16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_11_C11440_30s-Control10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_06_C11440_30s Lab5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_09_C11440_30s Large Incu49.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_04_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL38986_2wm_26_C11440_30s26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_07_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_07_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wf_04_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_18_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_32_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_06_C11440_30s7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wm_01_C11440_30s89.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_12_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_04_5wm_C11440_30s_GM Testing144.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_01_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_09_C11440_30s9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (11).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_09_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_6_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_35_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_03_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_3_C11440_30s17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_19_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_06_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Shakr_02_4WM_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_05_1wf_C11440_30s_GM Testing156.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_28_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_1_C11440_30s22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_2_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_03_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_06_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wf_03_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_08_C11440_30s Lab28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_02_1wm_C11440_30s_GM Testing141.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_32_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_07_C11440_30s22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_37_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (31).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_04_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_07_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDALFP5_5wm_05_C11440_30s93.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (28).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_31_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (14).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wm_04_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_4_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_38_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_02_4wf_C11440_30s_200FPS13-Copy1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_13_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_4_C11440_30s25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_02_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_03_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wm_01_C11440_30s94.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wf_04_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_04_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_27_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_28_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_08_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_04_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_29_C11440_30s-Control56.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_11_C11440_30s Lab11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP1_5wm_03_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_1_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_18_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_21_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_06_5wm_C11440_30s_GM Testing149.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1w1_01_C11440_30s-Control0.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wm_01_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_11_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_05_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP5_5wm_02_C11440_30s90.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_02_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_06_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (33).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_06_C11440_30s30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_14_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_17_C11440_30s Lab17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_06_C11440_30s-Control5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (20).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS/Control_5wm_03_C11440_30s Large Incu43.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_11_C11440_30s-Control35.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_06_C11440_30s-Control5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_10_C11440_30s Lab30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_2_C11440_30s23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_4_C11440_30s32.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_25_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (21).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_03_5wf_C11440_30s_GM Testing160.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_10_C11440_30s10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP5_5wm_04_C11440_30s97.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (22).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL38986_2wm_32_C11440_30s32.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_12_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wm_03_C11440_30s-Control3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_29_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_16_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_04_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_13_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_06_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_20_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_06_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wm_05_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_15_C11440_30s-Control14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_07_C11440_30s Lab27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_18_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_27_C11440_30s-Control54.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_08_C11440_30s Lab7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_1_C11440_30s1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (18).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (30).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT-TRF5wf_01_C11440_30s (2).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_1_C11440_30s1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wf_04_C11440_30s82.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_02_5wf_C11440_30s_GM Testing159.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wm_05_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_13_C11440_30s-Control37.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wm_04_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_01_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (22).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_04_C11440_30s-Control3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_04_C11440_30s28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_09_C11440_30s Lab8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_03_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_03_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_06_C11440_30s-Control13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/WTLDALFP1_5wm_02_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_04_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (9).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/example/Control_5wm_01_C11440_30s Large Incu41.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wf_04_C11440_30s9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_12_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_11_C11440_30s-Control10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_1_C11440_30s1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_07_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (17).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (34).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_15_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wf_04_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_07_C11440_30s Large Incu37.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (8).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_23_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_29_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_02_4wf_C11440_30s_200FPS13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_02_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_22_C11440_30s-Control21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (19).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wm_05_C11440_30s93.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_20_C11440_30s-Control19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (15).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_2_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/example/Control_1wm_01_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_19_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_12_C11440_30s-Control36.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/example/Control_1wf_04_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_05_C11440_30s small Incu55.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_07_C11440_30s7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wm_05_C11440_30s93.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_08_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_01_C11440_30s-Control20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_06_C11440_30s-Control19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_7_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wf_05_C11440_30s83.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_13_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wf_01_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_05_5wf_C11440_30s_GM Testing162.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_03_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_2_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_01_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_28_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_17_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_10_C11440_30s Large Incu50.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_25_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wf_02_C11440_30s85.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_01_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wf_03_C11440_30s8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_34_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_22_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT-TRF_5wf_01_C11440_30s (1).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_12_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wf_03_C11440_30s86.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_06_C11440_30s Large Incu46.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_05_C11440_30s6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_40_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_15_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wm_02_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (10).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_24_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_10_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_18_C11440_30s-Control17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_09_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (15).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_05_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_02_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_26_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_01_C11440_30s small Incu59.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_07_C11440_30s24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_14_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_20_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_06_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_11_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wm_01_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_23_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_09_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (35).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_23_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/WTLDALFP1_5wm_03_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_20_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_04_C11440_30s Large Incu44.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_39_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_14_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_35_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_2_C11440_30s9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_8_C11440_30s8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_02_C11440_30s-Control1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_02_1wf_C11440_30s_GM Testing153.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_10_C11440_30s-Control9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT_TRF_5wf_03_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_02_5wm_C11440_30s_GM Testing146.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Hand+_05_3WF_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_03_C11440_30s-Control10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wf_05_C11440_30s83.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_4_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_13_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_12_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_24_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_01_C11440_30s Lab10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_16_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_10_C11440_30s-Control9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT-TRF_5wf_01_C11440_30s (32).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_01_C11440_30s10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_03_C11440_30s-Control27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_05_C11440_30s Large Incu35.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_05_3wm_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_19_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_40_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_24_C11440_30s-Control23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_27_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_06_C11440_30s-Control5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_01_1wf_C11440_30s_GM Testing152.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_33_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_3_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_03_C11440_30s Lab23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_38_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_13_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_08_C11440_30s-Control7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (26).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_05_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_01_C11440_30s Large Incu31.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_08_C11440_30s8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_04_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_07_C11440_30s-Control31.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_03_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_05_C11440_30s Lab4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_07_C11440_30s-Control25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_1_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_12_C11440_30s Lab12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_2_C11440_30s30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_01_5wf_C11440_30s_GM Testing158.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_01_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wm_02_C11440_30s-Control2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1w1_04_C11440_30s-Control3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_33_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_25_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_5_C11440_30s26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_29_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_25_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_28_C11440_30s-Control55.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (12).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (3).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_33_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_19_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (17).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (19).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_02_C11440_30s17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wf_02_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_02_C11440_30s-Control15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_28_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_10_C11440_30s Large Incu40.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_19_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_03_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_02_C11440_30s-Control2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_15_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_06_C11440_30s6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_31_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_36_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/old_samples/KD_01_4wf_C11440_30s_200FPS1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP1_5wm_01_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_08_C11440_30s small Incu66.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_05_C11440_30s small Incu63.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wf_01_C11440_30s84.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_01_C11440_30s-Control0.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_2_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_7_C11440_30s7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_06_C11440_30s23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_09_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_02_C11440_30s Lab22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_05_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_02_C11440_30s Large Incu42.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_14_C11440_30s29.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_3_C11440_30s31.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (24).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_05_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_08_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_01_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_03_C11440_30s-Control3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_5_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_21_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_20_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (23).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_03_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_7_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wm_05_C11440_30s-Control6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_9_C11440_30s9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_15_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_15_C11440_30s30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_06_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS/Control_1wm_01_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP1_5wm_05_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL38986_2wm_33_C11440_30s33.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_24_C11440_30s-Control51.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP1_5wm_04_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_6_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_7_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_04_C11440_30s-Control11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_26_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP5_5wm_03_C11440_30s91.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_21_C11440_30s-Control48.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_08_C11440_30s-Control7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_14_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_27_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_05_C11440_30s Lab25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_01_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_06_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_24_C11440_30s24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_04_5wf_C11440_30s_GM Testing161.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_4_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_12_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_03_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_08_C11440_30s Large Incu38.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_01_C11440_30s Large Incu41.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (3).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_07_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wf_04_C11440_30s87.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_26_C11440_30s-Control53.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_06_C11440_30s-Control30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (9).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (13).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_21_C11440_30s-Control20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_11_C11440_30s26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/old_samples/KD_04_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_5_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_2_C11440_30s8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_17_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_10_C11440_30s Lab9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_04_1wm_C11440_30s_GM Testing143.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (7).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_03_1wf_C11440_30s_GM Testing154.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_10_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_02_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wm_05_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_23_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_24_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_15_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_10_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_29_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_03_3wf_C11440_30s-Copy1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_04_C11440_30s Lab24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_02_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (24).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_03_C11440_30s Lab2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_01_4wf_C11440_30s_200FPS7-Copy1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_35_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_05_5wm_C11440_30s_GM Testing148.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_31_C11440_30s-Control58.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_5_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_22_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_02_C11440_30s small Incu52.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_5_C11440_30s26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_32_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_23_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_03_C11440_30s-Control2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_7_C11440_30s28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_23_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_18_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_23_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_15_C11440_30s Lab15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_02_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_7_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_05_C11440_30s22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (1).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_16_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP5_5wm_03_C11440_30s96.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_26_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_4_C11440_30s10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_03_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_22_C11440_30s-Control49.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wm_02_C11440_30s90.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_04_C11440_30s small Incu54.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/old_samples/Control_01_4wf_C11440_30s_200FPS7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_23_C11440_30s23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wm_01_C11440_30s89.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_10_C11440_30s25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_1_C11440_30s8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_19_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_02_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_3_C11440_30s17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_19_C11440_30s-Control43.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP5_5wf_02_C11440_30s80.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_14_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_19_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_04_C11440_30s Large Incu34.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_04_C11440_30s-Control28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_17_C11440_30s32.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_16_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_02_C11440_30s Large Incu32.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_14_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_10_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_21_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1w1_02_C11440_30s-Control1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_06_C11440_30s-Control13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_03_3wf_C11440_30s-Copy1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_02_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_15_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (6).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wm_01_C11440_30s11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_09_C11440_30s Large Incu39.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_02_4wf_C11440_30s_200FPS6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_21_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_33_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_17_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_35_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_16_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wm_04_C11440_30s92.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_1_C11440_30s15.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_25_C11440_30s-Control24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_02_C11440_30s small Incu60.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_10_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_16_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_34_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (32).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_34_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_05_C11440_30s-Control23.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_12_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wf_05_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_6_C11440_30s6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_04_C11440_30s small Incu62.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wf_01_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_03_C11440_30s-Control2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_08_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/w1118_1wm_01_C11440_30s-Control14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_04_C11440_30s-Control4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (4).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_19_C11440_30s Lab19.avi
+
+VALIDATION (n = 210)
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_21_C11440_30s36.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_1_C11440_30s29.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_07_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_04_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_09_C11440_30s-Control33.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wf_05_C11440_30s88.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (20).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_14_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_02_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_31_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_05_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_06_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_5_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wm_02_C11440_30s90.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP5_5wm_02_C11440_30s95.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_41_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_07_C11440_30s small Incu57.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_32_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (12).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_28_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_12_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_02_C11440_30s Lab1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_21_C11440_30s21.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_13_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_25_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_03_C11440_30s27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_11_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_02_C11440_30s-Control26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_6_C11440_30s27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL44538_2wm_6_C11440_30s20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_03_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wf_02_C11440_30s80.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_07_1wf_C11440_30s_GM Testing164.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_14_C11440_30s Lab14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_22_C11440_30s37.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_3_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_29_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28294_2wm_2_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_20_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (18).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_28_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wm_05_C11440_30s-Control5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_08_1wf_C11440_30s_GM Testing165.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_05_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_07_C11440_30s16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_24_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_08_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_26_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL53886_2wm_5_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_02_C11440_30s-Control1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_01_C11440_30s-Control0.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_01_C11440_30s-Control45.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_01_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_09_C11440_30s-Control8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80364_2wm_3_C11440_30s24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_07_C11440_30s Large Incu47.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS/Control_1wf_04_C11440_30s4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wf_05_C11440_30s-Control4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_06_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_34_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_27_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_06_C11440_30s Large Incu36.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (13).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_06_C11440_30s Lab26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_07_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_18_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HW1118_2wm_3_C11440_30s24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_04_C11440_30s Lab3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_04_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_19_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wm_01_C11440_30s18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_36_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wm_04_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_01_4wf_C11440_30s_200FPS1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_15_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_15_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_13_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (11).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_10_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_07_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP1_5wf_02_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wm_04_C11440_30s19.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_11_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_23_C11440_30s-Control22.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_03_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wm_05_C11440_30s-Control6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_21_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_18_C11440_30s Lab18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_20_C11440_30s35.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_05_C11440_30s-Control4.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_08_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_18_C11440_30s-Control42.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_15_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_22_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_02_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_05_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_38_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL28024_2wm_6_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_20_C11440_30s Lab20.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Shakr_01_4WF_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_36_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_7_C11440_30s7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_6_C11440_30s6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP5_5wm_02_C11440_30s95.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_18_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_37_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_01_C11440_30s1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_7_C11440_30s35.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_06_C11440_30s small Incu64.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_19_C11440_30s34.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_05_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (6).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_09_C11440_30s Lab29.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_08_C11440_30s-Control32.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_18_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/old_samples/KD_02_4wf_C11440_30s_200FPS6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_04_C11440_30s-Control17.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_12_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wm_03_C11440_30s91.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (33).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_05_C11440_30s-Control29.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_37_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_04_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wf_12_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_19_C11440_30s-Control46.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_08_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_17_C11440_30s-Control41.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_08_1wm_C11440_30s_GM Testing166.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_37_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (27).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_01_C11440_30s-Control8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (4).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/Control_01_4wf_C11440_30s_200FPS7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wf_05_C11440_30s10.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/WTLDALFP1_5wm_04_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_26_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL32422_2wm_3_C11440_30s3.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL38986_2wm_28_C11440_30s28.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDTRFP1_5wf_02_C11440_30s7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_30_C11440_30s-Control57.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_01_1wm_C11440_30s_GM Testing140.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_07_C11440_30s small Incu65.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_09_C11440_30s small Incu67.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_07_C11440_30s-Control6.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wf_08_C11440_30s small Incu58.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL44483_2wm_25_C11440_30s25.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_33_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_17_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wm_06_C11440_30s-Control7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_09_C11440_30s24.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf__04_30_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wf_03_C11440_30s81.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wm_04_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL28940_2wm_3_C11440_30s9.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_02_C11440_30s26.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_09_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_18_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_04_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_34_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/KD_07_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1623/HBL65004_2wm_7_C11440_30s7.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_09_C11440_30s-Control8.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL35394_2wm_14_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_07_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_05_C11440_30s-Control12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/WTLDALFP5_5wf_01_C11440_30s79.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wf_05_C11440_30s5.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_14_C11440_30s-Control13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_1wm_12_C11440_30s27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Male/Control_3wm_16_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/2/AVI/HW1118_1wf_05_C11440_30s14.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_10_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_10_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (21).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_03_5wm_C11440_30s_GM Testing147.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_14_C11440_30s-Control38.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP5_5wf_04_C11440_30s82.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK TRF/WT-TRF_5wf_23_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_30_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1423/HBL38986_2wm_27_C11440_30s27.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Male/LamCG489V_3wm_16_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_04_1wf_C11440_30s_GM Testing155.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (25).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS/Control_5wm_01_C11440_30s Large Incu41.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_03_C11440_30s-Control16.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Mutant Female/LamCG489V_3wf_09_C11440_30.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/CS_1wf_12_C11440_30s-Control11.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/example/Control_5wf_04_C11440_30s small Incu54.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/5w/DocumentsWTLDALFP1_5wf_01_C11440_30s2.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Farah_SOHA_AVI/AVI/HW1118_1wf_05_C11440_30s29.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_05_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_20_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/KD_07_3wf_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_24_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Publishing/CS/CS_01_5wm_C11440_30s_GM Testing145.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/Previous/5wm/DocumentsWTLDTRFP5_5wm_01_C11440_30s94.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/Videos/Control/Control_5wm_03_C11440_30s Large Incu43.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wf_10_C11440_30s-Control34.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New TRF 5 week/WT_TRF_5wf_01_C11440_30s (27).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wm_02_C11440_30s12.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/New ALF 5 week/ALF_5wf_04_C11440_30s143 (2).avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/20211221_30_VIDS/1w/CS_1wm_01_C11440_30s-Control1.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_22_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/5w_new/DocumentsWTLDALFP1_5wm_03_C11440_30s13.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/1w_new/avi/w1118_1wm_19_C11440_30s-Control18.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/ALF & TRF 5 WEEK SCIENCE 2015/5 WK ALF/WT-ALF_5wf_22_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/YASH/YASH/Misc/AHA Obesity/HBL 1523/HBL80796_2wm_5_C11440_30s33.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/Control hearts/HandW1118_16_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/SHARED_VIDEOS/machine_learning/GM_Uploaded/Laminopathy Project/Control Female/Control_3wf_04_C11440_30s.avi
+../../../../../../../data/project/Drosophila_MelkaniLab/GIRISH/Dilated Cardiomyopathy Model/HOGDH33686_3wf_29_C11440_30s.avi

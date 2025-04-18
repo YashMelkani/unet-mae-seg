@@ -188,8 +188,9 @@ class AttUNet(LightningModule):
     
     def configure_optimizers(self): # change
         lr0 = 1e-4
+        # lr0 = 1e-6
         optimizer = torch.optim.Adam(self.parameters(), lr=lr0)
-        scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, 100, eta_min=1e-8) # cosineanneal was 30 for MAE
+        scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, 100, eta_min= lr0/1e4) # cosineanneal was 30 for MAE
         return {"optimizer": optimizer,  "lr_scheduler": {"scheduler": scheduler}}
         # return {"optimizer": optimizer}
     

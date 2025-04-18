@@ -1,0 +1,15 @@
+data:
+  base_dir: ../../../../../../../data/project/Drosophila_MelkaniLab/
+  bs: 64
+  n_frames: 500
+  p_mask: 0.75
+  train_split: 0.75
+model:
+  n_input_channels: 3
+  n_output_channels: 1
+task: mae
+train:
+  epochs: 300
+  name: attunet-mae-0.75
+  save_dir: results
+  val_freq: 3

@@ -1,3 +1,4 @@
+import argparse
 import os
 import glob
 import random
@@ -15,8 +16,8 @@ from torch.utils.data import ConcatDataset, DataLoader
 from att_unet import AttUNet
 from dataset import MAEHeartDataset, SEGHeartDataset
 
-def create_mae_dataset(vid_path, n_frames):
-    return MAEHeartDataset(vid_path, n_frames=n_frames, balance=True, augment=True) # seeded by lightning seed_everything method
+def create_mae_dataset(vid_path, n_frames, p_mask):
+    return MAEHeartDataset(vid_path, n_frames=n_frames, p_mask=p_mask, balance=True, augment=True) # seeded by lightning seed_everything method
 
 def create_seg_dataset(vid_path, n_frames):
     return SEGHeartDataset(vid_path, n_frames=n_frames, balance=True, augment=True) # seeded by lightning seed_everything method
@@ -25,6 +26,7 @@ def init_mae_loaders(config, seed=0):
     
     base_dir = config['base_dir']
     n_frames = config['n_frames']
+    p_mask = config['p_mask']
     train_split = config['train_split']
     batch_size = config['bs']
         
@@ -52,7 +54,7 @@ def init_mae_loaders(config, seed=0):
     random.shuffle(vid_paths)
     
     with ThreadPoolExecutor() as executor:
-        results = executor.map(create_mae_dataset, vid_paths, [n_frames] * n_vids)
+        results = executor.map(create_mae_dataset, vid_paths, [n_frames] * n_vids, [p_mask]*n_vids)
         
     datasets = list(results)
     
@@ -63,8 +65,9 @@ def init_mae_loaders(config, seed=0):
     train_dataset = ConcatDataset(datasets[:n_train_vids])
     val_dataset = ConcatDataset(datasets[n_train_vids:])
                 
-    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=4)
-    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=4)
+    cpus_per_task = int(os.environ['SLURM_CPUS_PER_TASK'])
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=cpus_per_task)
+    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=cpus_per_task)
     
     return train_loader, val_loader, vid_paths[:n_train_vids], vid_paths[n_train_vids:]
  
@@ -99,8 +102,9 @@ def init_seg_loaders(config, seed=0):
     train_dataset = ConcatDataset(datasets[:n_train_vids])
     val_dataset = ConcatDataset(datasets[n_train_vids:])
     
-    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=4)
-    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=4)
+    cpus_per_task = int(os.environ['SLURM_CPUS_PER_TASK'])
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=cpus_per_task)
+    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=cpus_per_task)
 
     return train_loader, val_loader, vid_paths[:n_train_vids], vid_paths[n_train_vids:]
     
@@ -168,9 +172,12 @@ def init_model(config, task='mae', last_ckpt = None):
 
 def train(config, model, train_loader, val_loader, last_ckpt=None):
     
-    # world_size = int(os.environ['WORLD_SIZE'])
-    world_size = 2
-    n_node = max(1, world_size // 4) # returns 1 if <= 4 gpus else, for 8, 12, 16 ... will return correct # of nodes
+    print('WS', os.environ['SLURM_NTASKS'])
+    print('CPUs', os.environ['SLURM_CPUS_PER_TASK'])
+    print('NNodes', os.environ['SLURM_NNODES'])
+    
+    world_size = int(os.environ['SLURM_NTASKS'])
+    n_node = int(os.environ['SLURM_NNODES'])
     
     name = config['name']
     save_dir = config['save_dir']
@@ -191,7 +198,7 @@ def train(config, model, train_loader, val_loader, last_ckpt=None):
     
     logger = CSVLogger(save_dir, name=name)
     
-    trainer = Trainer(devices = min(world_size, 4), # up-to 4 devices per node 
+    trainer = Trainer(devices = min(world_size, 4), # hardcoded up-to 4 devices per node for pascalnodes
                       num_nodes = n_node, 
                       strategy = 'ddp',
                       check_val_every_n_epoch = val_freq, 
@@ -208,14 +215,21 @@ def train(config, model, train_loader, val_loader, last_ckpt=None):
     print("Training completed")
     
 if __name__ == '__main__':
-   
-    config_path = './configs/seg.yaml'
     
-    last_ckpt = None
-    # last_ckpt = './results/'
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--config_path', default='./configs/seg.yaml', help='Config file with training parameters')
+    parser.add_argument('--pretrain_ckpt', default=None, help='Pretraining ckpt for start training from')
+    parser.add_argument('--last_ckpt', default=None, help='Last ckpt for resuming training (not pretraining ckpt)')
     
+    flags = parser.parse_args()
+    config_path = flags.config_path
+    pretrain_ckpt = flags.pretrain_ckpt
+    last_ckpt = flags.last_ckpt
+    
+    # set seed
     seed_everything(0, workers=True)
     
+    # load configs
     with open(config_path) as f:
         config = yaml.safe_load(f)
     
@@ -224,6 +238,9 @@ if __name__ == '__main__':
     model_config = config['model']
     train_config = config['train']
     
+    model_config['pretrain_ckpt'] = pretrain_ckpt # save pretrain ckpt in config
+
+
     if task == 'mae':
         train_loader, val_loader, train_vids, val_vids = init_mae_loaders(data_config, seed=0)
     elif task == 'seg':
